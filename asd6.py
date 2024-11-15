@@ -38,7 +38,7 @@ from io import BytesIO
 
 model_folder = 'C:\\asd6'  # المجلد الرئيسي للمشروع
 model_path = os.path.join(model_folder, 'ASD6_XGBoost.pkl')  # مسار حفظ النموذج
-data_frame_template_path = 'C:\\asd6\\The data frame file to be analyzed.xlsx'  # قالب البيانات
+data_frame_template_path = 'The data frame file to be analyzed.xlsx'  # قالب البيانات
 metrics_file_path = os.path.join(model_folder, 'metrics.txt')  # ملف تخزين مؤشرات الأداء
 
 # ==============================================
