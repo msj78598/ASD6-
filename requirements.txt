@@ -1,6 +1,8 @@
 streamlit
 pandas
-imbalanced-learn
 scikit-learn
+imbalanced-learn
 xgboost
 joblib
+openpyxl
+xlsxwriter
